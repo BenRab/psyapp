@@ -7,5 +7,7 @@
     </string>
     <string name="hello_world" >Hello world!
     </string>
+    <string name="uhrzeiten" >Wahl der Uhrzeiten
+    </string>
 
 </resources>
